@@ -12,11 +12,11 @@ PVector pos [] = new PVector [mengeVonPunkten];
 
 for(int i = 0; i < pos.length; i++){
   
-pos[i] = new PVector();
+pos[i] = new PVector(random(width), random(height));
   a = a + inc;
 
 }
-line
+
 
 beginShape();
 

@@ -1,3 +1,6 @@
+
+// code by fabiantheblind  
+// http://the-moron.net 
 NodeSystem ns; // the System
   int num = 100; // number of nodes
 
